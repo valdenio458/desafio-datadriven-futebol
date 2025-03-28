@@ -1,0 +1,60 @@
+dfcartoes.csv
+atleta - Nome do atleta punido pelo cartão
+cartao - Cor do cartão aplicado
+clube - Nome do clube
+minuto - Minuto na partida em que o cartão foi aplicado
+num_camisa - Número da camisa do atleta
+partida_id - ID da partida
+posicao - Posição na partida em que o atleta se encontra
+rodada - Rodada da partida
+
+
+dfestatisticas.csv
+cartao_amarelo - Quantidade de cartões amarelos para o clube na partida
+cartao_vermelho - Quantidade de cartões vermelhos para o clube na partida
+chutes - Finalizações
+chutes_no_alvol - Finalizações na direção do gol
+clube - Nome do clube
+escanteios - Quantidade de escanteios para o clube na partida
+faltas - Quantidade de faltas cometidas na partida
+impedimentos - Quantidade de impedimentos para o clube na partida
+partida_id - ID da partida
+passes - Quantidade de passes que o clube deu na partida
+posse_de_bola - Percentual da posse de bola
+rodada - Rodada da partida
+
+
+dffull.csv
+arena : Arena que ocorreu a partida
+data : Data que ocorreu a partida
+hora :  Horário que ocorreu a partida
+ID - ID da partida
+mandante : Clube mandante
+mandante_Estado : Estado do clube mandatório
+mandante_Placar : Gols que o clube mandante fez na partida
+rodada : Rodada que aconteceu a partida
+tecnico_mandante: Técnico do mandante
+tecnico_visitante: Técnico do visitante
+vencedor : Clube vencedor da partida. Quando tiver "-", é um empate
+visitante : Clube Visitante
+visitante_Estado : Estado do clube visitante
+visitante_Placar : Gols que o clube visitante fez na partida 
+
+
+dfgols.csv
+atleta - Nome do atleta que fez o gol
+minuto - Minuto na partida em que o gol foi marcado
+partida_id - ID da partida
+rodada - Rodada da partida
+tipo_de_gol
+
+
+Medidas
+Total_Gols
+Total_Gols_Atleta
+Total_Vitorias
+
+
+
+
+
